@@ -1,3 +1,5 @@
+This is a working DNS server built with GO (feel free to use)
+
 [![progress-banner](https://backend.codecrafters.io/progress/dns-server/617cd3d5-e9c1-4d4a-a697-2bac5e3b149e)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a starting point for Go solutions to the
